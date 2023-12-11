@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm Yash Kothari, a Computer Science student at the University of Waterloo. I enjoy learning about ML and robotics, and building innovative things with meaningful impact using cool technology!
+
+Feel free to reach out:
+
+[![Email](https://img.shields.io/badge/yashkoth7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashkoth7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashkothari7/)
 
 <!--
 **YashK2005/YashK2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
