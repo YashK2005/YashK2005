@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm Yash Kothari, a Computer Science student at the University of Waterloo. I enjoy learning about ML and robotics, and building innovative things with meaningful impact using cool technology!
+I'm Yash Kothari, a Computer Science student at the University of Waterloo. I enjoy and building innovative and impactful things using cool technology.
+
+Currently, I'm a Software Engineer Intern at Shopify.
 
 Feel free to reach out:
 
