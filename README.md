@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Yash Kothari, a Computer Science student at the University of Waterloo. I enjoy and building innovative and impactful things using cool technology.
 
-Currently, I'm a Software Engineer Intern at Shopify.
+Currently, I'm a Software Engineer Intern at SeatGeek. I've previously worked at Shopify and Nest Wallet.
 
 Feel free to reach out:
 
